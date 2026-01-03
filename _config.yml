@@ -1,5 +1,5 @@
 # Site settings
-title: Hux Blog
+title: QU Blog
 SEOTitle: Qu的博客 | QU Blog
 header-img: img/home-bg.jpg
 email: quxichun@gmail.com
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: 
+zhihu_username: 
+github_username: 
+twitter_username: 
+#facebook_username:  
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
